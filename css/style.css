@@ -1,0 +1,29 @@
+.login__form {
+    margin-top: 25%;
+}
+.form__input {
+    margin-top: 20px;
+}
+
+.change__input {
+    margin-bottom: 20px;
+}
+
+.profile__header {
+    padding-top: 15px;
+}
+
+.admin__panel {
+    padding-top: 50px;
+}
+
+.user__info {
+    padding-top: 15px;
+}
+.settings {
+    cursor: pointer;
+}
+
+.banned {
+    margin-top: 250px;
+}
